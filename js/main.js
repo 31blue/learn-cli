@@ -1,1 +1,1 @@
-let me='frontend developer';
+let me='frontend developer 12기';
